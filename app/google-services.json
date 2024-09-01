@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "8635074352",
+    "firebase_url": "https://smishing-21d6a-default-rtdb.firebaseio.com",
+    "project_id": "smishing-21d6a",
+    "storage_bucket": "smishing-21d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8635074352:android:12e63a206a43354ef8aaf5",
+        "android_client_info": {
+          "package_name": "com.example.smishing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxi0y_rRl1-N8KAY96hk-6X-gdcrtcAqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8635074352:android:0430d3307ba2b799f8aaf5",
+        "android_client_info": {
+          "package_name": "com.example.swproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxi0y_rRl1-N8KAY96hk-6X-gdcrtcAqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8635074352:android:ceee5fed24cb3d41f8aaf5",
+        "android_client_info": {
+          "package_name": "org.techtown.push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxi0y_rRl1-N8KAY96hk-6X-gdcrtcAqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
